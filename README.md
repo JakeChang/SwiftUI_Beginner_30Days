@@ -5,8 +5,8 @@
 
 | Day | Title | --  |
 | --- | ---   | --- |
-| 1   | 新建專案 | |
-| 2   | 基本排版 | |
+| 1   | [新建專案](SwiftUI30/SwiftUI30/Day1.swift) | |
+| 2   | [基本排版](SwiftUI30/SwiftUI30/Day2.swift) | |
 | 3   | | |
 | 4   | | |
 | 5   | | |
