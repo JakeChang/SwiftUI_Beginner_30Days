@@ -9,8 +9,8 @@
 | 2   | [基本排版](SwiftUI30/SwiftUI30/Day2.swift) | |
 | 3   | [按鈕](SwiftUI30/SwiftUI30/Day3.swift) | |
 | 4   | [列表](SwiftUI30/SwiftUI30/Day4.swift) | |
-| 5   | | |
-| 6   | | |
+| 5   | [NavigationView 導航容器](SwiftUI30/SwiftUI30/Day5.swift) | |
+| 6   | [Binding](SwiftUI30/SwiftUI30/Day6.swift) | |
 | 7   | | |
 | 8   | | |
 | 9   | | |

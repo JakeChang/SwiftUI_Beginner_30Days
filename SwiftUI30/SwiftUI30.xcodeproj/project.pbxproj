@@ -7,16 +7,20 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		23221E082C7D474200091A32 /* Day5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23221E072C7D474200091A32 /* Day5.swift */; };
 		2384D3BE2C762F2B00049087 /* SwiftUI30App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2384D3BD2C762F2B00049087 /* SwiftUI30App.swift */; };
 		2384D3C02C762F2B00049087 /* Day1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2384D3BF2C762F2B00049087 /* Day1.swift */; };
 		2384D3C22C762F2D00049087 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2384D3C12C762F2D00049087 /* Assets.xcassets */; };
 		2384D3C52C762F2D00049087 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2384D3C42C762F2D00049087 /* Preview Assets.xcassets */; };
 		2384D3CC2C762F8B00049087 /* Day2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2384D3CB2C762F8B00049087 /* Day2.swift */; };
 		23A0F5B42C7782A700130E9A /* Day3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23A0F5B32C7782A700130E9A /* Day3.swift */; };
+		23AFA79D2C7F48A200A5FC27 /* Day6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23AFA79C2C7F48A200A5FC27 /* Day6.swift */; };
+		23AFA79F2C7F4D0100A5FC27 /* Day7.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23AFA79E2C7F4D0100A5FC27 /* Day7.swift */; };
 		23C8CBF12C78D6E9006FB9F9 /* Day4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23C8CBF02C78D6E9006FB9F9 /* Day4.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		23221E072C7D474200091A32 /* Day5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Day5.swift; sourceTree = "<group>"; };
 		2384D3BA2C762F2B00049087 /* SwiftUI30.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUI30.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2384D3BD2C762F2B00049087 /* SwiftUI30App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI30App.swift; sourceTree = "<group>"; };
 		2384D3BF2C762F2B00049087 /* Day1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Day1.swift; sourceTree = "<group>"; };
@@ -24,6 +28,8 @@
 		2384D3C42C762F2D00049087 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		2384D3CB2C762F8B00049087 /* Day2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Day2.swift; sourceTree = "<group>"; };
 		23A0F5B32C7782A700130E9A /* Day3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Day3.swift; sourceTree = "<group>"; };
+		23AFA79C2C7F48A200A5FC27 /* Day6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Day6.swift; sourceTree = "<group>"; };
+		23AFA79E2C7F4D0100A5FC27 /* Day7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Day7.swift; sourceTree = "<group>"; };
 		23C8CBF02C78D6E9006FB9F9 /* Day4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Day4.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -62,6 +68,9 @@
 				2384D3CB2C762F8B00049087 /* Day2.swift */,
 				23A0F5B32C7782A700130E9A /* Day3.swift */,
 				23C8CBF02C78D6E9006FB9F9 /* Day4.swift */,
+				23221E072C7D474200091A32 /* Day5.swift */,
+				23AFA79C2C7F48A200A5FC27 /* Day6.swift */,
+				23AFA79E2C7F4D0100A5FC27 /* Day7.swift */,
 				2384D3C12C762F2D00049087 /* Assets.xcassets */,
 				2384D3C32C762F2D00049087 /* Preview Content */,
 			);
@@ -148,8 +157,11 @@
 			files = (
 				2384D3C02C762F2B00049087 /* Day1.swift in Sources */,
 				23C8CBF12C78D6E9006FB9F9 /* Day4.swift in Sources */,
+				23AFA79F2C7F4D0100A5FC27 /* Day7.swift in Sources */,
 				2384D3CC2C762F8B00049087 /* Day2.swift in Sources */,
 				23A0F5B42C7782A700130E9A /* Day3.swift in Sources */,
+				23221E082C7D474200091A32 /* Day5.swift in Sources */,
+				23AFA79D2C7F48A200A5FC27 /* Day6.swift in Sources */,
 				2384D3BE2C762F2B00049087 /* SwiftUI30App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
