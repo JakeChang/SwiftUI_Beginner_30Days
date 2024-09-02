@@ -9,23 +9,23 @@ import SwiftUI
 
 struct Day7: View {
     
-    @State var isPresented: Bool = false
-    
+    @State var isPresented = false
+        
     var body: some View {
         VStack {
             Button(action: {
                 isPresented.toggle()
                 
             }, label: {
-                Text("Go to Next")
+                Text("Go To Page2")
             })
         }
-        //.fullScreenCover(isPresented: $isPresented, content: {
-        //    Day7_subView(isPresented: $isPresented)
-        //})
         .sheet(isPresented: $isPresented, content: {
             Day7_subView(isPresented: $isPresented)
         })
+//        .fullScreenCover(isPresented: $isPresented, content: {
+//            Day7_subView(isPresented: $isPresented)
+//        })
     }
 }
 
@@ -36,9 +36,10 @@ struct Day7_subView: View {
     var body: some View {
         GeometryReader { geometryReader in
             VStack {
+                Text("Page2")
+                
                 Button(action: {
-                    isPresented.toggle()
-                    
+                    isPresented = false
                 }, label: {
                     Text("Back")
                         .foregroundStyle(.white)

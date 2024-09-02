@@ -5,7 +5,7 @@
 
 | Day | Title | --  |
 | --- | ---   | --- |
-| 1   | [新建專案](SwiftUI30/SwiftUI30/Day1.swift) | |
+| 1   | [新建專案](Day1/Day1/ContentView.swift) | ![Day1](Day1/Day1.jpeg) |
 | 2   | [基本排版](SwiftUI30/SwiftUI30/Day2.swift) | |
 | 3   | [按鈕](SwiftUI30/SwiftUI30/Day3.swift) | |
 | 4   | [列表](SwiftUI30/SwiftUI30/Day4.swift) | |
