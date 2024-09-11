@@ -12,12 +12,12 @@
 | 5   | [NavigationView 導航容器](Day5/Day5/ContentView.swift) | ![Day1](Day5/Day5.jpeg) |
 | 6   | [變數 Binding](Day6/Day6/ContentView.swift) | ![Day1](Day6/Day6.jpeg) |
 | 7   | [sheet 換頁](Day7/Day7/ContentView.swift) | ![Day1](Day7/Day7.jpeg) |
-| 8   | | |
-| 9   | | |
-| 10   | | |
-| 11   | | |
-| 12   | | |
-| 13   | | |
+| 8   | [ObservedObject](Day8/Day8/ContentView.swift) | ![Day1](Day8/Day8.jpeg) |
+| 9   | [StateObject](Day9/Day9/ContentView.swift) | ![Day9](Day9/Day9.jpeg) |
+| 10  | [EnvironmentObject](Day10/Day10/ContentView.swift) | ![Day10](Day10/Day10.jpeg) |
+| 11  | [Environment](Day11/Day11/ContentView.swift) | ![Day11](Day11/Day11.jpeg) |
+| 12  | [Environment dismiss](Day12/Day12/ContentView.swift) | ![Day12](Day12/Day12.jpeg) |
+| 13  | [形狀](Day13/Day13/ContentView.swift) | ![Day13](Day13/Day13.jpeg) |
 | 14   | | |
 | 15   | | |
 | 16   | | |
